@@ -1,0 +1,12 @@
+Operational alphabet
+--------------------------------------------
+The LCD keypad is designed to display the time you enter through the keypad, and with the equal key of the keypad, the time you entered goes from the LCD to seven segments and starts counting down and decreases like a timer.
+
+
+
+
+
+
+روند عملیاتی
+--------------------------------------------
+برای کیپد ال سی دی گزاشته شده که تایمی که از طریق کیپد وارد می کنید را نمایش دهد و با کلید مساوی کیپد تایمی که وارد کردین از ال سی دی به سون سگمنت می رود و مانند یک تایمر شروع به شمارش نزولی کند و کاهش پیدا کند 
